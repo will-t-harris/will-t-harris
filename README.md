@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi, I'm Will 👋
+---
+I'm a software developer, content creator, and bikepacker from San Francisco. 
+
+I'm currently focused on React, the Jamstack, and learning Rust. 🦀
+
+- I write and share projects at [bikesandbytes.net](https://bikesandbytes.net) ✏️
+- Want to get in touch? I'm on Twitter [@will__tweets](https://twitter.com/will__tweets) 🤖
 
 <!--
 **will-t-harris/will-t-harris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
