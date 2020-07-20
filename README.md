@@ -4,7 +4,7 @@ I'm a software developer, content creator, and bikepacker from San Francisco. �
 
 I'm currently focused on React, the Jamstack, and learning Rust. 🦀
 
-- I write and share projects at [bikesandbytes.net](https://bikesandbytes.net) ✏️
+- I write and share projects at [willharris.dev](https://willharris.dev) ✏️
 - Want to get in touch? I'm on Twitter [@will__tweets](https://twitter.com/will__tweets) 🤖
 
 <!--
