@@ -2,8 +2,6 @@
 
 I'm a software developer, content creator, and bikepacker from San Francisco. ☕💻🚴
 
-✨ Available for work! ✨
-
 I'm currently focused on React, TypeScript, the Jamstack, and Rust. 🦀
 
 - I write and share projects at [willharris.dev](https://willharris.dev) ✏️
