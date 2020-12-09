@@ -5,7 +5,7 @@ I'm a software developer, content creator, and bikepacker from San Francisco. �
 I'm currently focused on React, TypeScript, the Jamstack, and Rust. 🦀
 
 - I write and share projects at [willharris.dev](https://willharris.dev) ✏️
-- Want to get in touch? I'm on Twitter [@will__tweets](https://twitter.com/will__tweets)
+- Want to get in touch? I'm on Twitter [@will_devs](https://twitter.com/will_devs)
 
 <!--
 **will-t-harris/will-t-harris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
