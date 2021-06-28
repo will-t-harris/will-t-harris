@@ -1,6 +1,6 @@
 # Hi, I'm Will 👋
 
-I'm a software developer, content creator, and bikepacker from San Francisco. ☕💻🚴
+I'm a software developer, content creator, and bikepacker from Berkeley. ☕💻🚴
 
 I'm currently focused on React, TypeScript, and Rust. 🦀
 
