@@ -6,7 +6,7 @@ I'm currently focused on React, TypeScript, and Rust. 🦀
 
 I write and share projects at [willharris.dev](https://willharris.dev) ✏️
 
-Want to get in touch? I'm on Tweeters [@will_devs](https://twitter.com/will_devs)
+Want to get in touch? I'm on tweeters [@will_devs](https://twitter.com/will_devs), DMs are open.
 
 <!--
 **will-t-harris/will-t-harris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
