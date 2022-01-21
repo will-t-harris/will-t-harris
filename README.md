@@ -2,8 +2,6 @@
 
 I'm a software developer, content creator, and bikepacker from Berkeley. ☕💻🚴
 
-I'm currently focused on React, TypeScript, and Rust. 🦀
-
 I write and share projects at [willharris.dev](https://willharris.dev) ✏️
 
 Want to get in touch? I'm on tweeters [@will_devs](https://twitter.com/will_devs), DMs are open.
