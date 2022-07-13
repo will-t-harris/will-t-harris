@@ -1,6 +1,6 @@
 # Hi, I'm Will ✨
 
-I'm a software developer and bikepacker from Berkeley. ☕💻🚴
+I'm a software developer, bikepacker, chess fanatic, and car skeptic from Berkeley. ☕💻🚴
 
 I write and share projects at [willharris.dev](https://willharris.dev) ✏️
 
